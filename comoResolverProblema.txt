@@ -1,0 +1,3 @@
+1) Ver el primer caracter de la cadena
+2) Ir almacenando una subcadena hasta encontrar el caracter de (1), llamado subCadena
+3) Checar si al reemplazar la subCadena se regresa null
